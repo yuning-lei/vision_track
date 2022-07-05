@@ -1,0 +1,4 @@
+bar(edges,[N1' N2'],'stacked');
+legend('\theta_1','\theta_2')
+xlabel('Joint angle (°)')
+ylabel('Count')
